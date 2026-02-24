@@ -1,4 +1,4 @@
-Name: Manoj S USN: 1JB23AI405 Course: Gen AI Android App Develpment Assignemnt : 3
+Name: Manoj S USN: 1JB23AI401 Course: Gen AI Android App Develpment Assignemnt : 3
 📌 Project Overview
 
 This repository contains solutions for the CampusPe Python Basics Assignment, covering foundational to intermediate Python programming concepts.
@@ -19,3 +19,4 @@ Algorithm optimization
 
 
 All programs are implemented using clean, readable, and modular code practices.
+
